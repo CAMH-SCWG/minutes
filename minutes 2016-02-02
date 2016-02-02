@@ -1,0 +1,38 @@
+## Agenda: 
+
+# Minutes from Feb 2, 2016
+
+###GITlab 
+  - can be found at RDRSHGITLABV.CAMH.CA or 172.28.216.58
+  - cannot be accessed from CAMH Guest or Transforming Lives wireless
+  - Qing took a look at enabling LFS
+  - Currently don’t have domain name properly registered, but should be able to do so
+  - Ishraq tested: tried using LFS with camh server, and even if used SSH connection, had to use HTTP (re-type in credentials)
+  - So camh repeatedly asked for username and password. Tried using same LFS commands with gitlab, and that worked. But, could still clone a repository 
+  - So, when initialize on the server, should work
+  - _Next step_: Qing is comfortable will be gitlab reliable. Needs to find a solution for the email. This is the next step, but messy with camh. Might need to find work around
+  - At present, anyone can make a gitlab account.  So user access will have to be set on case-by-case basis
+
+###Storage
+
+  - Qing: moving along
+  - David is identifying a few groups to test
+  - Some groups are testing NFS sites
+  - Should be announced pretty soon
+
+###FTP 
+
+  - Compucom has to do some work on the firewall. Can transfer 14mg/s on average inside, but if on other side of firewall, it breaks
+  - This, it isnot usable
+  - Andy is looking at GLOBUS. A lot of ports are involved. Again, firewall issues
+
+###Peers to Peers
+
+  - Always Tuesdays 12-1 every other week
+  - Continue to follow up with speakers
+  - Some new ideas (gitlab and github, latek and markdown, etc)
+  - We will forward email address, topic, availability to P2P
+
+###Next week/ followup:  
+  - We may try to help get P2P money
+  - Look into what the Campbell Institute talk series and RIC rounds is all about
